@@ -1,8 +1,5 @@
 # Add Store to Windows 11 Enterprise LTSC
 
-For Windows 11 Enterprise LTSC 2024
-[Download](https://github.com/GFOXSH/LTSC-Add-MicrosoftStore/releases)  
-
 ## To install, run Add-Store.cmd as Administrator  
 
 If you do not want App Installer / Purchase App / Xbox identity, delete each one appxbundle before running to install. However, if you plan on installing games or any app with in-purchase options, you should include everything.  
@@ -17,9 +14,6 @@ Type in: WSReset.exe
 This will clear the cache if needed.  
   
 ## 为Windows 11 Enterprise LTSC增加应用商店
-
-适用于Windows 11 Enterprise LTSC 2021
-[下载地址](https://github.com/GFOXSH/LTSC-Add-MicrosoftStore/releases)  
 
 ### 要开始安装, 请打包下载后用右键管理员运行 Add-Store.cmd
 
